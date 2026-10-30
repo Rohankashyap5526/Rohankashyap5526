@@ -130,12 +130,15 @@ An analytics dashboard exploring AI-assisted influencer recommendations and data
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rohankashyap5526&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=00C2A8&icon_color=00C2A8" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohankashyap5526&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=00C2A8" alt="Top languages" />
+<a href="https://github.com/Rohankashyap5526?tab=repositories"><img src="https://img.shields.io/badge/Explore-Public_Repositories-123B5D?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+<a href="https://github.com/Rohankashyap5526?tab=followers"><img src="https://img.shields.io/github/followers/Rohankashyap5526?style=for-the-badge&logo=github&label=Followers&color=00C2A8" alt="GitHub followers" /></a>
+<a href="https://github.com/Rohankashyap5526"><img src="https://img.shields.io/github/stars/Rohankashyap5526?style=for-the-badge&logo=github&label=Stars&color=FFB86B" alt="GitHub stars" /></a>
+
+### Contribution Streak
 
 <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohankashyap5526&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2A8&fire=FFB86B&currStreakLabel=00C2A8" alt="GitHub contribution streak" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rohankashyap5526&bg_color=0D1117&color=C9D1D9&line=00C2A8&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" />
+<p><a href="https://github.com/Rohankashyap5526?tab=overview">View my complete contribution history and activity directly on GitHub →</a></p>
 
 </div>
 
