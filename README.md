@@ -80,49 +80,124 @@ I'm an **AI/ML & Data Science Developer** who enjoys turning ideas into practica
 
 ## 🧰 Technology Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,tailwind,django,flask,fastapi,mysql,postgres,firebase,docker,git,github,vscode&perline=9" alt="Technology icons" />
-</p>
+<div align="center">
 
-| Area | Tools & Technologies |
-|---|---|
-| **AI / ML** | Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy |
-| **Generative AI** | LangChain, RAG, FAISS, Hugging Face, Groq, LLM APIs |
+### Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&perline=5" alt="Python, C++, JavaScript, HTML and CSS" />
+
+### AI, Machine Learning & Data
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white" />
+
+### Frameworks & APIs
+<img src="https://skillicons.dev/icons?i=react,tailwind,django,flask,fastapi&perline=5" alt="React, Tailwind, Django, Flask and FastAPI" />
+
+### Databases & Developer Tools
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,docker,git,github,vscode&perline=7" alt="MySQL, PostgreSQL, Firebase, Docker, Git, GitHub and VS Code" />
+
+</div>
+
+| Focus | Technologies |
+|:--|:--|
+| **Generative AI** | LLM applications, RAG, LangChain, FAISS, Hugging Face, Groq |
+| **Machine Learning** | Scikit-learn, TensorFlow, PyTorch, model evaluation |
+| **Data Science** | Pandas, NumPy, Matplotlib, Seaborn, EDA |
 | **Backend** | FastAPI, Flask, Django, REST APIs |
 | **Frontend** | React, JavaScript, HTML, CSS, Tailwind CSS |
-| **Databases** | MySQL, PostgreSQL, MongoDB, Supabase, Firebase |
-| **Analytics** | Power BI, Tableau, Matplotlib, Seaborn |
-| **Tools & Deployment** | Git, GitHub Actions, Docker, Streamlit, Render |
+| **Data & Storage** | MySQL, PostgreSQL, MongoDB, Supabase, Firebase |
+| **Analytics & Delivery** | Power BI, Tableau, Streamlit, Docker, GitHub Actions, Render |
+
+---
 
 ## 🚀 Selected Projects
 
-### 🎙️ [PodGen AI](https://github.com/Rohankashyap5526/podgen-ai)
-An AI podcast platform that turns topics, URLs, and documents into podcast-style audio. Built around Groq-powered generation, retrieval workflows, FAISS, and multi-speaker text-to-speech.
+<div align="center">
 
-**Stack:** Python · Groq · RAG · FAISS · Sentence Transformers · TTS · React · Docker
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 📺 [YouTube Summarizer AI](https://github.com/Rohankashyap5526/youtube-summarizer-ai)
-A learning assistant for working with YouTube transcripts, asking questions about content, and generating study notes.
+### 🎙️ PodGen AI
 
-**Stack:** Python · Streamlit · Groq · Embeddings · RAG
+AI podcast platform that transforms topics, URLs, and documents into podcast-style audio using LLMs, retrieval, and multi-speaker text-to-speech.
 
-### 🛡️ [SecureTest](https://github.com/Rohankashyap5526/SecureTest)
-An online assessment platform with student testing, admin controls, server-side scoring, data export, and exam-security features.
+**Built with:** Python · Groq · RAG · FAISS · TTS · React · Docker
 
-**Stack:** JavaScript · Express · Supabase · PostgreSQL
+<a href="https://github.com/Rohankashyap5526/podgen-ai"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://podgen-ai.onrender.com/"><img src="https://img.shields.io/badge/Live_App-00A98F?style=for-the-badge&logo=render&logoColor=white" /></a>
 
-### ✍️ [Creatify Stories](https://github.com/Rohankashyap5526/creatify-stories)
-An AI-assisted story creation app with genre and style choices, story continuation, and content analysis.
+</td>
+<td width="50%" valign="top">
 
-**Stack:** Python · Flask · Groq · Llama
+### 📺 YouTube Summarizer AI
 
-### 📰 [AI News — AI Pulse](https://github.com/Rohankashyap5526/AI_news)
-A news project that collects AI-related updates and presents them in a browsable website with article pages and pagination.
+A learning assistant for exploring YouTube transcripts, asking questions about video content, and generating useful study notes.
 
-**Stack:** Python · RSS · JavaScript · HTML · CSS · GitHub Actions
+**Built with:** Python · Streamlit · Groq · Embeddings · RAG
 
-### 📊 [Influencer Recommendation Dashboard](https://github.com/Rohankashyap5526/Influencer-recommendation-Dashboard-with-Ai-)
-An analytics dashboard exploring AI-assisted influencer recommendations and data-driven decision support.
+<a href="https://github.com/Rohankashyap5526/youtube-summarizer-ai"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ SecureTest
+
+Online assessment platform with student testing, admin controls, server-side scoring, data export, and exam-security features.
+
+**Built with:** JavaScript · Express · Supabase · PostgreSQL
+
+<a href="https://github.com/Rohankashyap5526/SecureTest"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ✍️ Creatify Stories
+
+AI-powered story creation app with genre and style choices, story continuation, and content analysis.
+
+**Built with:** Python · Flask · Groq · Llama
+
+<a href="https://github.com/Rohankashyap5526/creatify-stories"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://creatify-stories.onrender.com/"><img src="https://img.shields.io/badge/Live_App-00A98F?style=for-the-badge&logo=render&logoColor=white" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📰 AI News — AI Pulse
+
+AI news website that collects updates and presents them through searchable stories, individual article pages, and pagination.
+
+**Built with:** Python · RSS · JavaScript · HTML · CSS · GitHub Actions
+
+<a href="https://github.com/Rohankashyap5526/AI_news"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://rohankashyap5526.github.io/AI_news/"><img src="https://img.shields.io/badge/Live_Site-00A98F?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Influencer Recommendation Dashboard
+
+An analytics project exploring AI-assisted influencer recommendations and data-driven decision support.
+
+**Built with:** Python · Data Analytics · Machine Learning
+
+<a href="https://github.com/Rohankashyap5526/Influencer-recommendation-Dashboard-with-Ai-"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
